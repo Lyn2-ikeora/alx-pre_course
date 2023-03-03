@@ -1,1 +1,1 @@
-My first readm
+my first directory
